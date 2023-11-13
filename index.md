@@ -4,7 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+  I am Davoud Farhangi, a computer engineer who graduated from KIAU. \
+  I have a passion for data science and artificial intelligence, \
+  and I strive to stay up-to-date with the latest developments in \
+  these fields. When I'm not working on coding projects or analyzing \
+  data, you can find me indulging in my other hobbies: music and football. \
+  I am an electric guitar player, and I love nothing more than strumming out a \
+  tune in my free time. I'm also an avid football fan, and I enjoy playing the \
+  sport whenever I get the chance.
 
 ## Research Interests
 
